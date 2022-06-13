@@ -3,7 +3,7 @@
 <p><em>Recent Data Science graduate from <a href="https://www.psgtech.edu">PSG College of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Analytics Consultant at <a href="https://home.kpmg/in/en/home.html">KPMG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: nehasathish](https://img.shields.io/badge/-nehasathish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/nehasathish/))]
+[![Linkedin: nehasathish](https://img.shields.io/badge/-nehasathish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nehasathish/)]
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
