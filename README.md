@@ -12,8 +12,8 @@
 ```javascript
 const neha = {
   pronouns: "she" | "her",
-  code: [Python, SQL, C++],
-  tools: [Azure, Power BI, Tableau, Spyder, Jupyter, Docker],
+  code: ["Python", "SQL", "C++"],
+  tools: [Azure, "Power BI", Tableau, Spyder, Jupyter, Docker],
   certifications: [ AZ-900, DP-900, AI-900, DP-203],
   Extra-curriculars: {
                         organizer: "Science Exhibition","Football Tournament",
@@ -23,6 +23,6 @@ const neha = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> :)</em>
 
 ---
