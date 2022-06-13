@@ -18,7 +18,7 @@ const neha = {
   Extra-curriculars: {
                         organizer: "Science Exhibition","Football Tournament",
                         Volunteer: "Bushwalker","Marshal at Parkrun",
-                        Others: "Dancer", "Proudly me-made wardrobe", "photographer"
+                        Others: "Dancer", "Proudly me-made wardrobe designer", "photographer"
                       },
 }
 ```
