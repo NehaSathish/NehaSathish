@@ -13,7 +13,7 @@
 const neha = {
   pronouns: "she" | "her",
   code: ["Python", "SQL", "C++"],
-  tools: [Azure, "Power BI", Tableau, Spyder, Jupyter, Docker],
+  tools: ["Azure", "Power BI", "Tableau", "Spyder", "Jupyter", "Docker"],
   certifications: [ AZ-900, DP-900, AI-900, DP-203],
   Extra-curriculars: {
                         organizer: "Science Exhibition","Football Tournament",
